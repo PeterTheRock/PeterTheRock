@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterTheRock
 - 👀 I’m interested in HTML, CSS and JAVASCRIPT
 - 🌱 I’m currently learning more HTML and CSS
-- 💞️ I’m looking to collaborate on my PLAT-BYTE website which is a combination of youtube and facebook without the heavy moderation
+- 💞️ I’m looking to collaborate on my viewspace.co.za website which is a combination of youtube and facebook without the heavy moderation
 - 📫 How to reach me peterhendricks1997@gmail.com
 
 <!---
